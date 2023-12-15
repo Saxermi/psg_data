@@ -1,7 +1,7 @@
 # psg_data
 
-This Repo contains the jupyter notebook used to analyse an RC-Circuit for the module "Physikalische Grundlagen der Sensorik" in the third semester of the Bsc. Data Science at ZHAW.
+This repository contains the Jupyter notebook used for analyzing an RC circuit as part of the 'Physikalische Grundlagen der Sensorik' module in the third semester of the BSc Data Science program at ZHAW.
 
-In the folder data, you find the measured data in a csv format.
-In the folder src you find the Jupyter Notebook used to analyze. 
-In the folder Plots you find the plots we produced.
+In the 'data' folder, you will find the measured data in CSV format.
+The 'src' folder contains the Jupyter Notebook used for analysis.
+The 'Plots' folder includes the plots that were generated.
